@@ -1,0 +1,22 @@
+# What is System Design?
+
+System design is the process of defining the architecture, components, data flow,
+and interactions of a system to meet business and technical requirements.
+
+## Why System Design Matters
+- Systems must scale with growing users and traffic
+- High availability and fault tolerance are critical
+- Poor design leads to outages, latency, and data inconsistency
+
+## Key Goals of System Design
+- Scalability
+- Reliability
+- Maintainability
+- Performance
+- Cost efficiency
+
+## Example
+Designing a URL shortener requires:
+- Handling high read traffic
+- Low latency redirects
+- Unique and collision-free short URLs
